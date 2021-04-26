@@ -132,14 +132,14 @@ public class PlayerMovement : MonoBehaviour
         myRigidbody.MovePosition(transform.position + change.normalized * speed * Time.fixedDeltaTime);
 
     }
-
+    
     public void Knock(float knockTime, float damage)
     {
         currentHealth.RunTimeValue -= damage;
         playerHealthSignal.Raise();
         if (currentHealth.RunTimeValue > 0)
         {
-
+            playerHealthSignal.Raise();
             StartCoroutine(KnockCo(knockTime));
         }
         else
