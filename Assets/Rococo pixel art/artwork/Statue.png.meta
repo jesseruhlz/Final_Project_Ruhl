@@ -1,0 +1,2320 @@
+fileFormatVersion: 2
+guid: 0c21317c49568354fae915e53976830b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2830071645898275730
+    second: Statue_0
+  - first:
+      213: 130561695280464317
+    second: Statue_1
+  - first:
+      213: -3202242373155783504
+    second: Statue_2
+  - first:
+      213: 3097904708608295069
+    second: Statue_3
+  - first:
+      213: -6210820937634677405
+    second: Statue_4
+  - first:
+      213: 3745443115517346739
+    second: Statue_5
+  - first:
+      213: 4309319453413299902
+    second: Statue_6
+  - first:
+      213: -7601154090182083770
+    second: Statue_7
+  - first:
+      213: 4453763675091117254
+    second: Statue_8
+  - first:
+      213: -5424469666760122395
+    second: Statue_9
+  - first:
+      213: -2294751561127400083
+    second: Statue_10
+  - first:
+      213: 6188889777518832123
+    second: Statue_11
+  - first:
+      213: -4235052524766355643
+    second: Statue_12
+  - first:
+      213: -3251032662930190862
+    second: Statue_13
+  - first:
+      213: 5829953191501963550
+    second: Statue_14
+  - first:
+      213: 5471616617004250634
+    second: Statue_15
+  - first:
+      213: 6775955756295537989
+    second: Statue_16
+  - first:
+      213: -2642637293790700686
+    second: Statue_17
+  - first:
+      213: 7724829336148616556
+    second: Statue_18
+  - first:
+      213: -5431070558960656424
+    second: Statue_19
+  - first:
+      213: -486521371488969729
+    second: Statue_20
+  - first:
+      213: 6245281716320732094
+    second: Statue_21
+  - first:
+      213: -5455101393165841945
+    second: Statue_22
+  - first:
+      213: -8250803666290009532
+    second: Statue_23
+  - first:
+      213: 8831357428588559715
+    second: Statue_24
+  - first:
+      213: 1937745294314326491
+    second: Statue_25
+  - first:
+      213: 8788182407617412154
+    second: Statue_26
+  - first:
+      213: 5649457363670218357
+    second: Statue_27
+  - first:
+      213: -5051472099773563603
+    second: Statue_28
+  - first:
+      213: -941467618055266720
+    second: Statue_29
+  - first:
+      213: 3654679481232338381
+    second: Statue_30
+  - first:
+      213: -3298684860498947851
+    second: Statue_31
+  - first:
+      213: 7632523607316673025
+    second: Statue_32
+  - first:
+      213: -660643112758092700
+    second: Statue_33
+  - first:
+      213: -2849977104516105970
+    second: Statue_34
+  - first:
+      213: -6149848789879440574
+    second: Statue_35
+  - first:
+      213: 4773216914774602727
+    second: Statue_36
+  - first:
+      213: -507879876559528426
+    second: Statue_37
+  - first:
+      213: 1086952718226047185
+    second: Statue_38
+  - first:
+      213: -7578590422776502268
+    second: Statue_39
+  - first:
+      213: 296350002762188578
+    second: Statue_40
+  - first:
+      213: 5402390926247815768
+    second: Statue_41
+  - first:
+      213: 7516211062133407235
+    second: Statue_42
+  - first:
+      213: -5036050315440202363
+    second: Statue_43
+  - first:
+      213: -5330791632624595487
+    second: Statue_44
+  - first:
+      213: -7516889118680067204
+    second: Statue_45
+  - first:
+      213: -7484672100121476244
+    second: Statue_46
+  - first:
+      213: -8469066561659445383
+    second: Statue_47
+  - first:
+      213: -2700640895743482187
+    second: Statue_48
+  - first:
+      213: -5663139009242363050
+    second: Statue_49
+  - first:
+      213: -7063110623724208352
+    second: Statue_50
+  - first:
+      213: 7131298129343891349
+    second: Statue_51
+  - first:
+      213: 2050182547463609312
+    second: Statue_52
+  - first:
+      213: 3579673799985206565
+    second: Statue_53
+  - first:
+      213: -5509403317489936063
+    second: Statue_54
+  - first:
+      213: 6952544482083814014
+    second: Statue_55
+  - first:
+      213: -7425922928253486780
+    second: Statue_56
+  - first:
+      213: 591933667442688924
+    second: Statue_57
+  - first:
+      213: 8040967129611181958
+    second: Statue_58
+  - first:
+      213: 5359263585783721523
+    second: Statue_59
+  - first:
+      213: 1501900410042359814
+    second: Statue_60
+  - first:
+      213: -1611824608982141735
+    second: Statue_61
+  - first:
+      213: -3496969952812229734
+    second: Statue_62
+  - first:
+      213: -469220692708237620
+    second: Statue_63
+  - first:
+      213: 2393166405240803404
+    second: Statue_64
+  - first:
+      213: 8238843561866281257
+    second: Statue_65
+  - first:
+      213: 4169968464120096665
+    second: Statue_66
+  - first:
+      213: -1553679016193590999
+    second: Statue_67
+  - first:
+      213: 7410740729509286986
+    second: Statue_68
+  - first:
+      213: 3114169251653892756
+    second: Statue_69
+  - first:
+      213: -1381569692125551055
+    second: Statue_70
+  - first:
+      213: -5444068832935624183
+    second: Statue_71
+  - first:
+      213: -6410551949869778882
+    second: Statue_72
+  - first:
+      213: -3694417083276257408
+    second: Statue_73
+  - first:
+      213: 7414558099792351390
+    second: Statue_74
+  - first:
+      213: -7980419214997402793
+    second: Statue_75
+  - first:
+      213: 4124190956895133825
+    second: Statue_76
+  - first:
+      213: -4089776601446958086
+    second: Statue_77
+  - first:
+      213: -5796115764189150378
+    second: Statue_78
+  - first:
+      213: 775954733754209737
+    second: Statue_79
+  - first:
+      213: -5697813581892609648
+    second: Statue_80
+  - first:
+      213: -44576809630006152
+    second: Statue_81
+  - first:
+      213: -6215379200244754958
+    second: Statue_82
+  - first:
+      213: 1932435150732762303
+    second: Statue_83
+  - first:
+      213: 4629892370653176195
+    second: Statue_84
+  - first:
+      213: 2822661418184155520
+    second: Statue_85
+  - first:
+      213: 7804907146153894558
+    second: Statue_86
+  - first:
+      213: -4396491973056481563
+    second: Statue_87
+  - first:
+      213: -7030763139669173505
+    second: Statue_88
+  - first:
+      213: -230000781905815512
+    second: Statue_89
+  - first:
+      213: -1437997811875602531
+    second: Statue_90
+  - first:
+      213: 7248796254341053546
+    second: Statue_91
+  - first:
+      213: 193075824073367343
+    second: Statue_92
+  - first:
+      213: -7580496406660421653
+    second: Statue_93
+  - first:
+      213: -8979673397123833742
+    second: Statue_94
+  - first:
+      213: -3312041552955216401
+    second: Statue_95
+  - first:
+      213: 6516178445692707379
+    second: Statue_96
+  - first:
+      213: 2944105028983755086
+    second: Statue_97
+  - first:
+      213: 1001377314769326155
+    second: Statue_98
+  - first:
+      213: 6202076248613238700
+    second: Statue_99
+  - first:
+      213: 8249617190500603995
+    second: Statue_100
+  - first:
+      213: 168037030010582784
+    second: Statue_101
+  - first:
+      213: 4479988363358473879
+    second: Statue_102
+  - first:
+      213: 3880106231147066765
+    second: Statue_103
+  - first:
+      213: -6258714206675665591
+    second: Statue_104
+  - first:
+      213: 1831075275854102136
+    second: Statue_105
+  - first:
+      213: -1404555567914942889
+    second: Statue_106
+  - first:
+      213: 2576893851123909006
+    second: Statue_107
+  - first:
+      213: 8324520346582663378
+    second: Statue_108
+  - first:
+      213: 6336144021838641385
+    second: Statue_109
+  - first:
+      213: -6256427741711469625
+    second: Statue_110
+  - first:
+      213: -1010125211213522591
+    second: Statue_111
+  - first:
+      213: -2518933871605931679
+    second: Statue_112
+  - first:
+      213: 3863337386438330639
+    second: Statue_113
+  - first:
+      213: -1075717602609563789
+    second: Statue_114
+  - first:
+      213: -5078388199720405429
+    second: Statue_115
+  - first:
+      213: 8578252750667256478
+    second: Statue_116
+  - first:
+      213: -2800109511166357233
+    second: Statue_117
+  - first:
+      213: -3946432999564528273
+    second: Statue_118
+  - first:
+      213: 6343263294757133730
+    second: Statue_119
+  - first:
+      213: -6025288447708849269
+    second: Statue_120
+  - first:
+      213: 1398644064231043715
+    second: Statue_121
+  - first:
+      213: -3236607468555168464
+    second: Statue_122
+  - first:
+      213: 2965977834390434965
+    second: Statue_123
+  - first:
+      213: -1363648175048599175
+    second: Statue_124
+  - first:
+      213: -3656283871625330223
+    second: Statue_125
+  - first:
+      213: -296502730980433109
+    second: Statue_126
+  - first:
+      213: -3255803311435089149
+    second: Statue_127
+  - first:
+      213: 5035867849900910528
+    second: Statue_128
+  - first:
+      213: -7763578212939764680
+    second: Statue_129
+  - first:
+      213: -5547421867655235203
+    second: Statue_130
+  - first:
+      213: -3137641648273743649
+    second: Statue_131
+  - first:
+      213: 6252492534697596046
+    second: Statue_132
+  - first:
+      213: 5700093960619640388
+    second: Statue_133
+  - first:
+      213: -8761076278198651823
+    second: Statue_134
+  - first:
+      213: -2643379821265925773
+    second: Statue_135
+  - first:
+      213: 8719319586885772672
+    second: Statue_136
+  - first:
+      213: 8496697043503165832
+    second: Statue_137
+  - first:
+      213: -2485406864943625107
+    second: Statue_138
+  - first:
+      213: 6207976726206727245
+    second: Statue_139
+  - first:
+      213: 8634817349556140465
+    second: Statue_140
+  - first:
+      213: 2675340449126060676
+    second: Statue_141
+  - first:
+      213: 126576437561981605
+    second: Statue_142
+  - first:
+      213: 1131893652444471182
+    second: Statue_143
+  - first:
+      213: -6650781510612799944
+    second: Statue_144
+  - first:
+      213: -868360019501813528
+    second: Statue_145
+  - first:
+      213: 437083541343170076
+    second: Statue_146
+  - first:
+      213: -3159261957349455570
+    second: Statue_147
+  - first:
+      213: -7521160687598293338
+    second: Statue_148
+  - first:
+      213: -2253573593048182938
+    second: Statue_149
+  - first:
+      213: 7643031280767850802
+    second: Statue_150
+  - first:
+      213: 6445583159850895867
+    second: Statue_151
+  - first:
+      213: 8298445395396283950
+    second: Statue_152
+  - first:
+      213: 5498537282114776777
+    second: Statue_153
+  - first:
+      213: 3693324742578749807
+    second: Statue_154
+  - first:
+      213: 8188638709136694533
+    second: Statue_155
+  - first:
+      213: -1987007350782231886
+    second: Statue_156
+  - first:
+      213: -1390008861896707349
+    second: Statue_157
+  - first:
+      213: 3309024576144066097
+    second: Statue_158
+  - first:
+      213: 429120712161644234
+    second: Statue_159
+  - first:
+      213: 8379048262236076962
+    second: Statue_160
+  - first:
+      213: -8286831975216176998
+    second: Statue_161
+  - first:
+      213: -8676457526107587014
+    second: Statue_162
+  - first:
+      213: -6608313771656673135
+    second: Statue_163
+  - first:
+      213: -1742595224891950994
+    second: Statue_164
+  - first:
+      213: -8968639292196388178
+    second: Statue_165
+  - first:
+      213: -7081968931187365678
+    second: Statue_166
+  - first:
+      213: 5407419668467303020
+    second: Statue_167
+  - first:
+      213: 8704687673179544249
+    second: Statue_168
+  - first:
+      213: 3828347602807350813
+    second: Statue_169
+  - first:
+      213: 6703355945384413039
+    second: Statue_170
+  - first:
+      213: -826580426409879399
+    second: Statue_171
+  - first:
+      213: 6556149640300615909
+    second: Statue_172
+  - first:
+      213: 4223307969938620439
+    second: Statue_173
+  - first:
+      213: 748148568935102084
+    second: Statue_174
+  - first:
+      213: -4490855703397283622
+    second: Statue_175
+  - first:
+      213: 6029289846706740987
+    second: Statue_176
+  - first:
+      213: -3623092967929972983
+    second: Statue_177
+  - first:
+      213: 2952924154036456258
+    second: Statue_178
+  - first:
+      213: -5362062585880435834
+    second: Statue_179
+  - first:
+      213: 4378521983255475536
+    second: Statue_180
+  - first:
+      213: -1748582512823134011
+    second: Statue_181
+  - first:
+      213: -1142940913233692387
+    second: Statue_182
+  - first:
+      213: 2962718108802498260
+    second: Statue_183
+  - first:
+      213: -869217242624596744
+    second: Statue_184
+  - first:
+      213: -885309721462959140
+    second: Statue_185
+  - first:
+      213: 6587726950754272364
+    second: Statue_186
+  - first:
+      213: -5561928703967123661
+    second: Statue_187
+  - first:
+      213: -1055121415129739052
+    second: Statue_188
+  - first:
+      213: -1780787100014760106
+    second: Statue_189
+  - first:
+      213: -4305201171840726740
+    second: Statue_190
+  - first:
+      213: 5736353417425684933
+    second: Statue_191
+  - first:
+      213: -8902595996742715843
+    second: Statue_192
+  - first:
+      213: 183685529357634681
+    second: Statue_193
+  - first:
+      213: 374163744693243378
+    second: Statue_194
+  - first:
+      213: -5521762206913467628
+    second: Statue_195
+  - first:
+      213: -3519524269934277924
+    second: Statue_196
+  - first:
+      213: -3086931276086248001
+    second: Statue_197
+  - first:
+      213: 3755336889493810435
+    second: Statue_198
+  - first:
+      213: -7275175975947856872
+    second: Statue_199
+  - first:
+      213: -7262062070402181908
+    second: Statue_200
+  - first:
+      213: -5224519763921752793
+    second: Statue_201
+  - first:
+      213: 7665060639963131121
+    second: Statue_202
+  - first:
+      213: 5112933673806614269
+    second: Statue_203
+  - first:
+      213: -1570881684606944993
+    second: Statue_204
+  - first:
+      213: -204612992849389548
+    second: Statue_205
+  - first:
+      213: 1159106708304868774
+    second: Statue_206
+  - first:
+      213: -6299982392854839098
+    second: Statue_207
+  - first:
+      213: 1023783962597657636
+    second: Statue_208
+  - first:
+      213: 144762305977524578
+    second: Statue_209
+  - first:
+      213: -1847988601164575235
+    second: Statue_210
+  - first:
+      213: 1780909627911701268
+    second: Statue_211
+  - first:
+      213: -7107063655280579160
+    second: Statue_212
+  - first:
+      213: 6414038644073826658
+    second: Statue_213
+  - first:
+      213: -3867732992637712394
+    second: Statue_214
+  - first:
+      213: 8905038082644582287
+    second: Statue_215
+  - first:
+      213: -5852834642993962662
+    second: Statue_216
+  - first:
+      213: -2849765591312565923
+    second: Statue_217
+  - first:
+      213: 7633953933566809044
+    second: Statue_218
+  - first:
+      213: 2121388499373487344
+    second: Statue_219
+  - first:
+      213: -5750816393501282183
+    second: Statue_220
+  - first:
+      213: 1077778880348197382
+    second: Statue_221
+  - first:
+      213: -1633468962056491880
+    second: Statue_222
+  - first:
+      213: -6989100944965861317
+    second: Statue_223
+  - first:
+      213: 2533826166737541073
+    second: Statue_224
+  - first:
+      213: -3106761817744324318
+    second: Statue_225
+  - first:
+      213: 8003906378915843440
+    second: Statue_226
+  - first:
+      213: 19165884976891791
+    second: Statue_227
+  - first:
+      213: -7548681544673467316
+    second: Statue_228
+  - first:
+      213: -8993009426223173373
+    second: Statue_229
+  - first:
+      213: 576464651746305651
+    second: Statue_230
+  - first:
+      213: -8543124281277051434
+    second: Statue_231
+  - first:
+      213: 8376039557094528170
+    second: Statue_232
+  - first:
+      213: 8387535457273695122
+    second: Statue_233
+  - first:
+      213: -7572270155809728145
+    second: Statue_234
+  - first:
+      213: 1839860028252315717
+    second: Statue_235
+  - first:
+      213: 3977431599019711087
+    second: Statue_236
+  - first:
+      213: 2796827276868260280
+    second: Statue_237
+  - first:
+      213: 7263873233066210345
+    second: Statue_238
+  - first:
+      213: 4580035500603977410
+    second: Statue_239
+  - first:
+      213: -5836712039995104802
+    second: Statue_240
+  - first:
+      213: 3770724009592119142
+    second: Statue_241
+  - first:
+      213: 1801743112258850202
+    second: Statue_242
+  - first:
+      213: -7094147129872033124
+    second: Statue_243
+  - first:
+      213: 6343734549710169664
+    second: Statue_244
+  - first:
+      213: -954040899499407773
+    second: Statue_245
+  - first:
+      213: -771923130275910193
+    second: Statue_246
+  - first:
+      213: -457903757502580402
+    second: Statue_247
+  - first:
+      213: 46268733470665287
+    second: Statue_248
+  - first:
+      213: 4316258393274041895
+    second: Statue_249
+  - first:
+      213: 7455157647112347563
+    second: Statue_250
+  - first:
+      213: -6009494572630955385
+    second: Statue_251
+  - first:
+      213: -1938303547867025574
+    second: Statue_252
+  - first:
+      213: 8455708595225354294
+    second: Statue_253
+  - first:
+      213: -952102412094260944
+    second: Statue_254
+  - first:
+      213: -8520776447765478046
+    second: Statue_255
+  - first:
+      213: -4734539365153906065
+    second: Statue_256
+  - first:
+      213: -8077580055893686070
+    second: Statue_257
+  - first:
+      213: -7891987934852597519
+    second: Statue_258
+  - first:
+      213: -6815817432711229346
+    second: Statue_259
+  - first:
+      213: 6228204608786266002
+    second: Statue_260
+  - first:
+      213: -1562914520148792050
+    second: Statue_261
+  - first:
+      213: -4915049977878023832
+    second: Statue_262
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Statue_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 508
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64045915d099b8d0800000000000000
+      internalID: -2830071645898275730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 508
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1077c8b29dfc100800000000000000
+      internalID: 130561695280464317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 508
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc785f17895f83d0800000000000000
+      internalID: -3202242373155783504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 476
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d908b984be7fdfa20800000000000000
+      internalID: 3097904708608295069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 476
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36df9b8734bbec9a0800000000000000
+      internalID: -6210820937634677405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 476
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b308da5bac7af330800000000000000
+      internalID: 3745443115517346739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6516c0637cdcb30800000000000000
+      internalID: 4309319453413299902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 444
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b70bba0a6438690800000000000000
+      internalID: -7601154090182083770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 444
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c428572772fecd30800000000000000
+      internalID: 4453763675091117254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 444
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef91e1049968b4b0800000000000000
+      internalID: -5424469666760122395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 412
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d6a3ffc976720e0800000000000000
+      internalID: -2294751561127400083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 412
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf96e07667a53e550800000000000000
+      internalID: 6188889777518832123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 412
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f1e20ca221a35c0800000000000000
+      internalID: -4235052524766355643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 412
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd8adc840302e2d0800000000000000
+      internalID: -3251032662930190862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 412
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1121ac0a8728e050800000000000000
+      internalID: 5829953191501963550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06b9a3c2561feb40800000000000000
+      internalID: 5471616617004250634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 380
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54542cb1cd7090e50800000000000000
+      internalID: 6775955756295537989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 380
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bd761f167735bd0800000000000000
+      internalID: -2642637293790700686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 380
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65a7a37a5b143b60800000000000000
+      internalID: 7724829336148616556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 380
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df51170a16f0a4b0800000000000000
+      internalID: -5431070558960656424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 348
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb93cce3678f39f0800000000000000
+      internalID: -486521371488969729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 348
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb30a8fc1a2bba650800000000000000
+      internalID: 6245281716320732094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 348
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e98c9e6f269b44b0800000000000000
+      internalID: -5455101393165841945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 348
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a1b47b7c14f7d80800000000000000
+      internalID: -8250803666290009532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 348
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d378f6ac84f8a70800000000000000
+      internalID: 8831357428588559715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 316
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd94acc141144ea10800000000000000
+      internalID: 1937745294314326491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 316
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c7f538655e5f970800000000000000
+      internalID: 8788182407617412154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_27
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 316
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57637474a87e66e40800000000000000
+      internalID: 5649457363670218357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 316
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d333c93e095e9b0800000000000000
+      internalID: -5051472099773563603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 284
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e5842803c3fe2f0800000000000000
+      internalID: -941467618055266720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 284
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd23c6ff9708b230800000000000000
+      internalID: 3654679481232338381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 284
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f05008b897b832d0800000000000000
+      internalID: -3298684860498947851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 284
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102b4e138cb2ce960800000000000000
+      internalID: 7632523607316673025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cdeb4d69ce4d6f0800000000000000
+      internalID: -660643112758092700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 252
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09325b5ce8d278d0800000000000000
+      internalID: -2849977104516105970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_35
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 252
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bbed0eb1957aaa0800000000000000
+      internalID: -6149848789879440574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_36
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 252
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3b6019e7fdd3240800000000000000
+      internalID: 4773216914774602727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e991171f5a3f8f0800000000000000
+      internalID: -507879876559528426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_38
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 220
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d042810db1a51f00800000000000000
+      internalID: 1086952718226047185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_39
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 220
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408aa30e92073d690800000000000000
+      internalID: -7578590422776502268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_40
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 220
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22783d3e1c8dc1400800000000000000
+      internalID: 296350002762188578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a6bc0ace529fa40800000000000000
+      internalID: 5402390926247815768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 188
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30eb25f6322fe4860800000000000000
+      internalID: 7516211062133407235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_43
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 188
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d51359bea5c1ab0800000000000000
+      internalID: -5036050315440202363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_44
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 188
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed49cdf0493506b0800000000000000
+      internalID: -5330791632624595487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7353193c25aea790800000000000000
+      internalID: -7516889118680067204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_46
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 156
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c638bf3616a112890800000000000000
+      internalID: -7484672100121476244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_47
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 156
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f562d45d4d77a80800000000000000
+      internalID: -8469066561659445383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_48
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 156
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b62157f965658ad0800000000000000
+      internalID: -2700640895743482187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b8370631d7861b0800000000000000
+      internalID: -5663139009242363050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 124
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f71a74f4acafd90800000000000000
+      internalID: -7063110623724208352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 124
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59743fa8dd577f260800000000000000
+      internalID: 7131298129343891349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_52
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 124
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb16422a26b37c10800000000000000
+      internalID: 2050182547463609312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52514ebea5e8da130800000000000000
+      internalID: 3579673799985206565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_54
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 92
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14957a07fdaaa83b0800000000000000
+      internalID: -5509403317489936063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_55
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 92
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a35bbce566c7060800000000000000
+      internalID: 6952544482083814014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_56
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 92
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449b504e072d1f890800000000000000
+      internalID: -7425922928253486780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_57
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 92
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93048ac888f63800800000000000000
+      internalID: 591933667442688924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f11136001479f60800000000000000
+      internalID: 8040967129611181958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_59
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 60
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e235036ddef5a40800000000000000
+      internalID: 5359263585783721523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_60
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 60
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600a69c2772d7d410800000000000000
+      internalID: 1501900410042359814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_61
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 60
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4f265de06a1a9e0800000000000000
+      internalID: -1611824608982141735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 60
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b996c0b54487fc0800000000000000
+      internalID: -3496969952812229734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 28
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccedcd9144efc79f0800000000000000
+      internalID: -469220692708237620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_64
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 28
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40d6c08a2c363120800000000000000
+      internalID: 2393166405240803404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_65
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 28
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921cd097190465270800000000000000
+      internalID: 8238843561866281257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 28
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997a5748934bed930800000000000000
+      internalID: 4169968464120096665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_67
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 28
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9297dc0aa29307ae0800000000000000
+      internalID: -1553679016193590999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
