@@ -388,7 +388,7 @@ TextureImporter:
     second: objects_127
   - first:
       213: 6047981793563322428
-    second: objects_128
+    second: Dialogue Frame
   - first:
       213: -2910770786380248794
     second: objects_129
@@ -1381,7 +1381,7 @@ TextureImporter:
     second: objects_127
   - first:
       213: 2567804424604316833
-    second: objects_128
+    second: Dialogue Frame
   - first:
       213: -3114123741586662949
     second: objects_129
@@ -4187,7 +4187,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: objects_128
+      name: Dialogue Frame
       rect:
         serializedVersion: 2
         x: 148
