@@ -4,9 +4,9 @@ using UnityEngine;
 
 public class Interactable : MonoBehaviour
 {
-    public bool playerInRange;
-    public SignalSender contextOn;
-    public SignalSender contextOff;
+    [SerializeField] public bool playerInRange;
+    [SerializeField] public SignalSender contextOn;
+    [SerializeField] public SignalSender contextOff;
 
     private void OnTriggerEnter2D(Collider2D other)
     {
