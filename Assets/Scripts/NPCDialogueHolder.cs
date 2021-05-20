@@ -17,14 +17,30 @@ public class NPCDialogueHolder : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
-    }
+        //if (Input.GetButtonDown("Check"))
+        //{
+        //    //dMan.ShowBox(dialogue);
+        //    if (!dMan.dialogueActive)
+        //    {
+        //        dMan.dialogueLines = dialogueLines;
+        //        dMan.currentLine = 0;
+        //        dMan.ShowDialogue();
+        //    }
 
+        //    if (transform.parent.GetComponent<VillagerMovement>() != null)
+        //    {
+        //        transform.parent.GetComponent<VillagerMovement>().canMove = false;
+        //    }
+        //}
+    }
+    
     void OnTriggerStay2D(Collider2D other)
     {
-        if(other.gameObject.name == "Player")
+        //if(other.gameObject.name == "Player")
+        if (other.CompareTag("Player"))
         {
-            if (Input.GetKeyUp(KeyCode.Space))
+            //if (Input.GetKeyUp(KeyCode.Space))
+            if (Input.GetButtonDown("Check"))
             {
                 //dMan.ShowBox(dialogue);
                 if (!dMan.dialogueActive)

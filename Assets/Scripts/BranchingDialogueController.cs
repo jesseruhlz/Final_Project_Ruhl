@@ -13,6 +13,8 @@ public class BranchingDialogueController : MonoBehaviour
     [SerializeField] private Story myStory;
     [SerializeField] private GameObject dialogueHolder;
     [SerializeField] private GameObject choiceHolder;
+    [SerializeField] private ScrollRect dialogueScroll;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -36,11 +38,20 @@ public class BranchingDialogueController : MonoBehaviour
     {
         if (dialogueValue.value)
         {
+            DeleteOldDialogues();
             myStory = new Story(dialogueValue.value.text);
         }
         else
         {
             Debug.Log("Something went wrong with story setup");
+        }
+    }
+
+    void DeleteOldDialogues()
+    {
+        for(int i = 0; i < dialogueHolder.transform.childCount; i++)
+        {
+            Destroy(dialogueHolder.transform.GetChild(i).gameObject);
         }
     }
 
@@ -58,6 +69,14 @@ public class BranchingDialogueController : MonoBehaviour
         {
             branchingCanvas.SetActive(false);
         }
+        //dialogueScroll.verticalNormalizedPosition = 0f;
+        StartCoroutine(ScrollCo());
+    }
+
+    IEnumerator ScrollCo()
+    {
+        yield return null;
+        dialogueScroll.verticalNormalizedPosition = 0f;
     }
 
     void MakeNewDialogue(string newDialogue)

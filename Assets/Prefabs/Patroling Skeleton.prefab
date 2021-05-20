@@ -17,6 +17,7 @@ GameObject:
   - component: {fileID: 6725351814448540556}
   - component: {fileID: 6725351814448540595}
   - component: {fileID: 6725351814448540552}
+  - component: {fileID: 8468514338584649594}
   m_Layer: 8
   m_Name: Patroling Skeleton
   m_TagString: Enemy
@@ -221,8 +222,24 @@ MonoBehaviour:
   enemyName: Sally
   baseAttack: 2
   moveSpeed: 2
+  myRigidbody: {fileID: 0}
   target: {fileID: 0}
   chaseRadius: 3
   attackRadius: 1
   homePosition: {fileID: 0}
   anim: {fileID: 0}
+--- !u!114 &8468514338584649594
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6725351814448540599}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8a44553cc7f879459905f273b08532f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  thrust: 3
+  knockTime: 0.3
+  damage: 2
