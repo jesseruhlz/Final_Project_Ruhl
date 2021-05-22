@@ -13,3 +13,12 @@ Mister Taft Creates. "Saving Data-Saving Between Scenes: Make a game like Zelda"
 Mister Taft Creates. "Treasure Chests 1: Make a game like Zelda". https://www.youtube.com/watch?v=INXCrkR_6Yo&list=PL4vbr3u7UKWp0iM1WIfRjCDTI03u43Zfu&index=36&t=0s
 
 Mister Taft Creates. "Treasure Chests Continued: Make a game like Zelda". https://www.youtube.com/watch?v=FLzssdvLMxU&list=PL4vbr3u7UKWp0iM1WIfRjCDTI03u43Zfu&index=36
+
+# Keybinding
+"W" - Move up
+"S" - Move down
+"A" - Move left
+"D" - Move right
+"Space" - Attack with sword / change dialogue boxes
+"E" - interact with objects
+"Q" - Ranged attack
